@@ -1,6 +1,6 @@
-# UrbanStyle - Where Fashion Meets Comfort!
+# Team Samarpan - DCE, Darbhanga
 
-UrbanStyle is a modern and user-friendly React-based e-commerce application that provides a seamless online shopping experience for fashion enthusiasts. With simplified categories, secure authentication using Firebase, real-time database powered by Firebase, and secure payments through Stripe, UrbanStyle is the ultimate destination for trendy shoppers.
+we are Team Samarpan. participating in internal hackathon of darbhanga college of engineering.
 
 ## Features
 
